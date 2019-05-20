@@ -54,6 +54,7 @@ def process_results(sources_list):
     return sources_results
 
 
+
 def get_articles(source):
     """
     Function to retrieve news sources list from the News api
